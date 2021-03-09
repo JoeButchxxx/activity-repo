@@ -1,0 +1,24 @@
+{
+  "name": "activity-npm",
+  "version": "1.0.0",
+  "description": "activity npm",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "echo \"# activity-repo\" >> README.md"
+  },
+  "keywords": [
+    "git",
+    "add",
+    "README.md"
+  ],
+  "author": "git push -u origin mainjoseph butcher",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.10.4"
+  }
+}
